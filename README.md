@@ -1,6 +1,7 @@
 # LRUCache
-Design and implement a data structure for Least Recently Used (LRU) cache. It
- should support the following operations: <b>get</b> and <b>put</b>.<br/><br/>
+The task is to design and implement a data structure for Least Recently Used 
+(LRU) cache. It should support the following operations: <b>get</b> and 
+<b>put</b>.<br/><br/>
  <b>get(key)</b> - Get the value (will always be positive) of the key if the key 
  exists in the cache, otherwise return -1.<br/><br/><b>put(key, value)</b> - 
  Set or insert the value if the key is not already present.<br/><br/> 
